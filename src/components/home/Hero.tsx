@@ -113,20 +113,12 @@ const Hero: React.FC = () => {
               <UserCircle className="w-5 h-5 group-hover:scale-110 transition-transform" />
             </Link>
 
-            <a
-              href="/aliakpoyraz-cv.pdf" 
-              download
-              className="group flex items-center gap-2 px-6 py-3 bg-accent/50 text-accent-foreground rounded-lg border border-accent/20 hover:bg-accent hover:border-accent/40 transition-all duration-300 hover:-translate-y-1 shadow-sm"
-              aria-label="CV'mi PDF formatında indir"
-            >
-              CV İndir
-              <Download className="w-5 h-5 group-hover:translate-y-1 transition-transform" />
-            </a>
+            
           </div>
 
           <div className="flex justify-center gap-6 mt-12 animate-fade-in-up-delayed">
             <a
-              href="https://github.com/aliakpoyraz"
+              href="https://github.com/brkens7"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all duration-300 hover:-translate-y-1"
@@ -135,7 +127,7 @@ const Hero: React.FC = () => {
               <Github className="w-6 h-6" />
             </a>
             <a
-              href="https://linkedin.com/in/aliakpoyraz"
+              href="https://www.linkedin.com/in/burak-enes-yakşi-b128a9238/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all duration-300 hover:-translate-y-1"
