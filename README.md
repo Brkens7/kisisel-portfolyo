@@ -1,7 +1,7 @@
 # 🌟 Kişisel Portfolyo Sitesi
 
 Bu proje, geliştirici olarak yeteneklerimi, projelerimi ve deneyimlerimi sergilemek amacıyla oluşturduğum **kişisel portfolyo web sitesidir**. Modern web teknolojileriyle geliştirilmiş, **responsive (mobil uyumlu)** ve **kullanıcı dostu** bir tasarıma sahiptir.
-![Portfolyo Ekran Görüntüsü](/public/images/kisisel-portfolyo.png)
+
 
 ## ✨ Özellikler
 
@@ -29,7 +29,7 @@ Projeyi yerel ortamda çalıştırmak için şu adımları izle:
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/aliakpoyraz/kisisel-portfolyo.git
+git clone https://github.com/brkens7/kisisel-portfolyo.git
 
 # Klasöre geç
 cd kisisel-portfolyo
