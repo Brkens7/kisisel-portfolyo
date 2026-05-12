@@ -40,7 +40,7 @@ const Header: React.FC<HeaderProps> = ({ isDarkMode, toggleDarkMode }) => {
         <div className="flex items-center justify-between">
           <div className="flex items-center">
             <Link to="/" className="text-2xl font-bold text-slate-800 dark:text-[#c9d1d9]">
-              Ali  <span className="text-teal-600 dark:text-[#58a6ff]"> Akpoyraz</span>
+              Burak Enes  <span className="text-teal-600 dark:text-[#58a6ff]"> Yakşi</span>
             </Link>
           </div>
 

@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Ali Akpoyraz</h3>
+            <h3 className="text-xl font-bold mb-4"> Burak Enes Yakşi</h3>
             <p className="text-slate-700 dark:text-slate-300 mb-4">
               İş birlikleri, Web sitesi, mobil uygulama geliştirme, SEO optimizasyonu gibi Freelance projeler için iletişime geçebilirsiniz.
             </p>
@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
                 <Github size={20} />
               </a>
               <a 
-                href="https://linkedin.com/in/aliakpoyraz" 
+                href="https://www.linkedin.com/in/burak-enes-yakşi-b128a9238/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-slate-700 dark:text-slate-300 hover:text-teal-600 dark:hover:text-teal-400 transition-colors"
@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
                 <Linkedin size={20} />
               </a>
               <a 
-                href="https://instagram.com/aliakpoyraz" 
+                href="https://www.instagram.com/brkens7/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-slate-700 dark:text-slate-300 hover:text-teal-600 dark:hover:text-teal-400 transition-colors"
@@ -43,7 +43,7 @@ const Footer: React.FC = () => {
                 <Instagram size={20} />
               </a>
               <a 
-                href="mailto:aliakpoyraz@gmail.com" 
+                href="mailto:burakenesyaksi9@gmail.com" 
                 className="text-slate-700 dark:text-slate-300 hover:text-teal-600 dark:hover:text-teal-400 transition-colors"
                 aria-label="Email Contact"
               >
@@ -81,21 +81,21 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="text-slate-700 dark:text-slate-300">
                 <Mail size={20} className="inline-block mr-2" />
-                aliakpoyraz@gmail.com
+                burakenesyaksi9@gmail.com
               </li>
               <li className="text-slate-700 dark:text-slate-300">
                 <Mail size={20} className="inline-block mr-2" />
-                iletisim@aliakpoyraz.com
+                iletisim@burakenesyaksi.com
               </li>
               <li className="text-slate-700 dark:text-slate-300">
                 <span className="inline-block mr-2">📍</span>
-                Ankara / Malatya, Türkiye
+                Elazığ / Malatya, Türkiye
               </li>
             </ul>
           </div>
         </div>
         <div className="border-t border-slate-200 dark:border-slate-800 mt-8 pt-8 text-center text-slate-600 dark:text-slate-400">
-          <p>&copy; {currentYear} Ali Akpoyraz. Tüm hakları saklıdır.</p>
+          <p>&copy; {currentYear} Burak Enes Yakşi. Tüm hakları saklıdır.</p>
         </div>
       </div>
     </footer>

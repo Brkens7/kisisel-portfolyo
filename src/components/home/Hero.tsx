@@ -76,7 +76,7 @@ const Hero: React.FC = () => {
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 animate-fade-in">
             <span className="text-foreground animate-fade-in">
-              Merhaba! Ben Ali 👋
+              Merhaba! Ben Burak 👋
             </span>
             <div className="mt-2">
               <span className="animate-bounce-subtle inline-block animate-color-shift text-primary drop-shadow-[0_0_8px_var(--primary)]">
@@ -92,7 +92,7 @@ const Hero: React.FC = () => {
           </h2>
 
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto animate-fade-in-up">
-            Ben Ali Akpoyraz, Yazılım Mühendisliği Öğrencisiyim. <br></br>Kullanıcı deneyimini ön planda tutan, 
+            Ben Burak Enes Yakşi, Yönetim Bilişim Sistemleri Öğrencisiyim. <br></br>Kullanıcı deneyimini ön planda tutan, 
             performans odaklı modern web uygulamaları geliştiriyorum. React, TypeScript, Node.js, Express ve diğer birçok teknolojiyle beraber kullanıcı dostu web siteler tasarlıyorum.
           </p>
 
@@ -144,7 +144,7 @@ const Hero: React.FC = () => {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="https://instagram.com/aliakpoyraz"
+              href="https://www.instagram.com/brkens7/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-all duration-300 hover:-translate-y-1"
