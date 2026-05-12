@@ -70,7 +70,7 @@ const Contact: React.FC = () => {
                         href="mailto:contact@example.com" 
                         className="text-[#8b949e] hover:text-[#58a6ff] transition-colors"
                       >
-                        aliakpoyraz@gmail.com
+                        burakenesyaksi9@gmail.com
                       </a>
                     </div>
                   </div>
@@ -81,7 +81,7 @@ const Contact: React.FC = () => {
                     <div>
                       <h3 className="font-bold text-slate-900 dark:text-[#c9d1d9] mb-1">Adres</h3>
                       <p className="text-[#8b949e]">
-                        Türkiye, Ankara
+                        Türkiye, Elazığ
                       </p>
                     </div>
                   </div>
@@ -94,7 +94,7 @@ const Contact: React.FC = () => {
                       <h3 className="font-bold text-slate-900 dark:text-[#c9d1d9] mb-1">Diğer</h3>
                       <div className="flex space-x-4 mt-2">
                         <a 
-                          href="https://github.com/aliakpoyraz" 
+                          href="https://github.com/Brkens7" 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-[#8b949e] hover:text-[#58a6ff] transition-colors"
@@ -103,7 +103,7 @@ const Contact: React.FC = () => {
                           GitHub
                         </a>
                         <a 
-                          href="https://linkedin.com/in/aliakpoyraz" 
+                          href="https://www.linkedin.com/in/burak-enes-yakşi" 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-[#8b949e] hover:text-[#58a6ff] transition-colors"
@@ -112,7 +112,7 @@ const Contact: React.FC = () => {
                           LinkedIn
                         </a>
                         <a 
-                          href="https://instagram.com/aliakpoyraz" 
+                          href="https://instagram.com/brkens7" 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="text-[#8b949e] hover:text-[#58a6ff] transition-colors"
